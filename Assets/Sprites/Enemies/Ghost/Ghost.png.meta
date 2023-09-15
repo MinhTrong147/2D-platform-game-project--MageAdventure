@@ -1,0 +1,440 @@
+fileFormatVersion: 2
+guid: a5064a6a5654f3d4fa57f3545f3389ee
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Ghost_01
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 291
+        width: 41
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c307cd21fd6d67a45a7093adae18f98d
+      internalID: -479375744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghost_02
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 291
+        width: 41
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9057cb6e79ded449bfd9c7749143103
+      internalID: 1104732432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghost_03
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 291
+        width: 39
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e58cb02c9ab153a4d8ee5867c3e5ac15
+      internalID: -123130902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghost_04
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 291
+        width: 45
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abafae49bd3b73b4d81ce899defb897b
+      internalID: 35539541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghost_05
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 291
+        width: 46
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a63249e0951be9f4fa0f624561a0d849
+      internalID: -681692794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghost_06
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 291
+        width: 42
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40d0509c2ecefe74b88be17127c12815
+      internalID: 1530993059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghost_07
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 291
+        width: 41
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20cee58aa09972f4fbc2778fb464ed2e
+      internalID: 1260931176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghost_08
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 291
+        width: 41
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a23899b346b7244d8cdb82f2a901139
+      internalID: 723759559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghost_09
+      rect:
+        serializedVersion: 2
+        x: 830
+        y: 291
+        width: 43
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e69ebb0daffbd19459a62134094bf0d6
+      internalID: 1793435333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Ghost_14: -233623709
+      Ghost_16: -784308088
+      Ghost_20: -156534622
+      Ghost_05: -681692794
+      Ghost_04: 35539541
+      Ghost_86: 109378957
+      Ghost_80: -682087706
+      Ghost_10: 1428617521
+      Ghost_67: -1883685725
+      Ghost_1: 953806848
+      Ghost_06: 1530993059
+      Ghost_32: 758194569
+      Ghost_75: 1332800453
+      Ghost_90: 1804839990
+      Ghost_57: 776524055
+      Ghost_24: -206312251
+      Ghost_25: 1834816331
+      Ghost_78: 805929125
+      Ghost_01: -479375744
+      Ghost_2: -1340185803
+      Ghost_87: 2099004295
+      Ghost_34: -1151071441
+      Ghost_31: 152526495
+      Ghost_09: 1793435333
+      Ghost_59: -1472549595
+      Ghost_19: 108610336
+      Ghost_65: 190086385
+      Ghost_73: -1782761141
+      Ghost_56: 280561087
+      Ghost_28: -832469740
+      Ghost_47: -179586259
+      Ghost_6: 929000736
+      Ghost_68: 524582966
+      Ghost_77: -1990038339
+      Ghost_48: 1712978816
+      Ghost_18: -935936457
+      Ghost_72: -1454496377
+      Ghost_58: 701325110
+      Ghost_71: 1789161544
+      Ghost_62: 287721562
+      Ghost_15: -1820943697
+      Ghost_74: -1320481139
+      Ghost_100: 275009426
+      Ghost_38: 1056443234
+      Ghost_51: 550223527
+      Ghost_61: 1811049251
+      Ghost_64: 450537763
+      Ghost_02: 1104732432
+      Ghost_22: 1760581569
+      Ghost_5: 1443657750
+      Ghost_79: -770660110
+      Ghost_96: 766570495
+      Ghost_81: -1081992566
+      Ghost_103: -1502212979
+      Ghost_53: -188239926
+      Ghost_69: -589042999
+      Ghost_08: 723759559
+      Ghost_36: 324001991
+      Ghost_82: 1705405289
+      Ghost_83: 1177539082
+      Ghost_89: 1425309378
+      Ghost_43: 540036833
+      Ghost_11: -875792741
+      Ghost_29: 2108905455
+      Ghost_40: 898854255
+      Ghost_42: 708564320
+      Ghost_30: -639366940
+      Ghost_4: 98798579
+      Ghost_93: 882272609
+      Ghost_17: 1317400378
+      Ghost_45: -488268680
+      Ghost_88: 1453199397
+      Ghost_91: 1353330667
+      Ghost_104: 1937893854
+      Ghost_99: 596908482
+      Ghost_44: -1221096766
+      Ghost_70: 1762826318
+      Ghost_98: -1752023229
+      Ghost_102: 1658015829
+      Ghost_106: 1163728760
+      Ghost_105: 275673968
+      Ghost_7: -504583307
+      Ghost_55: -764730279
+      Ghost_46: -1396431341
+      Ghost_60: -1643266780
+      Ghost_95: -818028035
+      Ghost_97: 440724858
+      Ghost_76: 805646795
+      Ghost_26: -536097739
+      Ghost_52: 754655002
+      Ghost_94: -36882845
+      Ghost_54: 1475788247
+      Ghost_13: -931506932
+      Ghost_63: -127305763
+      Ghost_33: -971357774
+      Ghost_66: -778672783
+      Ghost_3: -1167735691
+      Ghost_101: -2043589123
+      Ghost_41: 2147109344
+      Ghost_9: -2038631235
+      Ghost_0: 1751083168
+      Ghost_92: -1079115520
+      Ghost_35: -970377387
+      Ghost_50: 1341492538
+      Ghost_07: 1260931176
+      Ghost_84: -1975858645
+      Ghost_37: -1277119730
+      Ghost_27: 127171223
+      Ghost_12: -790945582
+      Ghost_39: -1361924717
+      Ghost_23: -1185810372
+      Ghost_03: -123130902
+      Ghost_49: 473799470
+      Ghost_21: -1547883091
+      Ghost_8: -592113744
+      Ghost_85: -395710825
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
